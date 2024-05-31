@@ -1,0 +1,87 @@
+[
+    {"id": 1, 
+    "name": "PRETAL", 
+    "price": 10500, 
+    "image": "https://mimale.com/2839-home_default/arnes-julius-k9-talla-1-l.jpg",
+    "sizes": ["S", "M", "L"], 
+    "colors": ["Rojo", "Azul", "Negro"] 
+    },
+    {"id": 2,
+    "name": "BALL 2 KNOTS",
+    "price": 5000,
+    "image": "https://d22fxaf9t8d39k.cloudfront.net/7dc01d207f648021c08020f4870f7b62a11409088b941c725f65434a806b739a93683.jpeg",
+    "sizes": ["Cachorro", "Adulto"],
+    "colors": ["Rosa", "Verde", "Azul", "Naranja"]
+    },
+    {"id": 3,
+    "name": "CUCHA - CUCHA",
+    "price": 50000,
+    "image": "https://m.media-amazon.com/images/I/61WdUeR1UEL._AC_UF1000,1000_QL80_.jpg",
+    "sizes": ["Peques", "Medianos", "Big Brother/Sister"],
+    "colors": ["Blanco", "Madera", "Negro", "Rosa"]
+    },
+    {"id": 4,
+    "name": "BOMBER",
+    "price": 20000,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_945101-MLA75948072744_052024-O.webp",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Rojo", "Violeta", "Amarillo", "Celeste", "Naranja"]
+    },
+    {"id": 5,
+    "name": "TIE",
+    "price": 2700,
+    "image": "https://i.pinimg.com/474x/35/cb/15/35cb15d2b10184f93b8d75f9c4a9390c.jpg",
+    "sizes": ["XS" , "S"],
+    "colors": ["Naranja" , "Verde", "Blanco"]
+    },
+    {"id": 6,
+    "name": "ID",
+    "price": 5000, 
+    "image": "https://i.pinimg.com/originals/40/89/43/408943a9a18e9b97d423ce92c81c12bd.jpg",
+    "sizes": ["Grande", "Pequeño"],
+    "colors": ["Negro", "Violeta", "Verde", "Plateado", "Rojo"]
+    },
+    {"id": 7,
+    "name": "HAT",
+    "price": 6450,
+    "image": "https://i.ebayimg.com/thumbs/images/g/Wf4AAOSwMUpczU0i/s-l640.jpg",
+    "sizes": ["Small"],
+    "colors": ["Negro", "Celeste", "Rosa"]
+    },
+    {"id": 8,
+    "name": "NO-RAIN",
+    "price": 18000,
+    "image": "https://cdn.manomano.com/images/images_products/21449342/L/46791465_4.jpg",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Naranja"]
+    },
+    {"id": 9,
+    "name": "MEAL-KIT",
+    "price": 65800,
+    "image": "https://m.media-amazon.com/images/I/814Qgxp9ebL._AC_UF1000,1000_QL80_.jpg",
+    "sizes": ["Mucha hambre" , "Poca hambre"],
+    "colors": ["Azul" , "Rojo"]
+    },
+    {"id": 10, 
+    "name": "PATA-SUCIA",
+    "price": 6000,
+    "image": "https://acdn.mitiendanube.com/stores/001/013/003/products/a11-ae8247e8018530ad0116885695177054-480-0.jpg",
+    "sizes": ["XS", "XL"],
+        "colors": ["Azul", "Verde", "Rosa"]
+    },
+    {"id": 11,
+         "name": "MOÑITO",
+        "price": 8000,
+        "image": "https://m.media-amazon.com/images/I/91ZPNVKL5ML.jpg",
+        "sizes": ["XXS", "XXL"],
+        "colors": ["Rojo" , "Blanco" , "Rosa"]
+    },
+    {"id": 12,
+        "name": "PERSONAL-BARBER",
+        "price": 45000,
+        "image": "https://www.tustecnologiastuc.com/wp-content/uploads/WhatsApp-Image-2020-09-07-at-16.49.06.jpeg",
+        "sizes": ["Pack completo"],
+        "colors": ["Único disponible"]
+    }
+    
+        ]
